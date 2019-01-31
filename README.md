@@ -1,14 +1,4 @@
 # hello-world
 first github try
-second line
 
-third line using git2.15
-
-fourth line for refresh momoery
-
-fifth line
-
-6line
-7line
-8lien
-from hello2
+I keep the above orignial proj name and proj desc.
